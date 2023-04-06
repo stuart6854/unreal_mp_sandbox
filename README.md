@@ -10,6 +10,7 @@ This project is a sandbox for testing/demoing multiplayer functionality in Unrea
   - Host can kick players
 - Spawning Actors (Replicated)
 - Server Travel (Seamless)
+- Player Tags (Show player name above character heads)
 
 ## Planned Features
 
