@@ -11,11 +11,11 @@ This project is a sandbox for testing/demoing multiplayer functionality in Unrea
 - Spawning Actors (Replicated)
 - Server Travel (Seamless)
 - Player Tags (Show player name above character heads)
+- Server Travel is host initiated (requires all clients be in zone)
 
 ## Planned Features
 
 - Lobby Menu - Create/Join game (Hub world only)
-- Make host initiate Server Travel & required all clients to be in zone
 - Text Chat
 - Spectating
   - e.g. When a player dies, allow them to spectate other clients characters
